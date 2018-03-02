@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Arsenal Quiz App</string>
+    <string name="submit">submit</string>
+    <string name="arsenal_fc_quiz">ARSENAL FC QUIZ</string>
+    <string name="question_one">1. Which of these players features as a striker for Arsenal FC</string>
+    <string name="question_two">2. Which of these describes the meaning of the football term \'DM\'?</string>
+    <string name="question_three">3. What happens if a player is adjudged offside?</string>
+    <string name="question_four">4. Which of these French Football clubs did Arsene Wenger coach?</string>
+    <string name="question_five">5. What happens if a goalkeeper handles a backpass?</string>
+    <string name="question_six">6. Which of these have partnered at least once in the Arsenal defence?</string>
+    <string name="question_seven">7. What was the dominant formation employed by Arsene Wenger in his first season at Arsenal?</string>
+    <string name="question_one_option_one">Eddie Nketiah</string>
+    <string name="question_one_option_two">Jack Wilshere</string>
+    <string name="question_one_option_three">Alexander Lacazette</string>
+    <string name="question_one_option_four">Aaron Ramsey</string>
+    <string name="question_two_option_one">Direct Message</string>
+    <string name="question_two_option_two">Defensive Management</string>
+    <string name="question_two_option_three">Direct Marking</string>
+    <string name="question_two_option_four">Defensive Midfielder</string>
+    <string name="question_three_option_one">Free Kick</string>
+    <string name="question_three_option_two">Goal Kick</string>
+    <string name="question_three_option_three">Indirect Kick</string>
+    <string name="question_three_option_four">Corner Kick</string>
+    <string name="question_four_option_one">Paris St Germain</string>
+    <string name="question_four_option_two">Nancy</string>
+    <string name="question_four_option_three">Monaco</string>
+    <string name="question_four_option_four">Strasbourg</string>
+    <string name="question_five_option_one">Penalty</string>
+    <string name="question_five_option_two">Direct Free Kick</string>
+    <string name="question_five_option_three">Indirect Free Kick</string>
+    <string name="question_five_option_four">Offside</string>
+    <string name="question_six_option_one">Patrick Vieira and Emmanuel Petit</string>
+    <string name="question_six_option_two">Kolo Toure and Sol Campbell</string>
+    <string name="question_six_option_three">Sol Campbell and Per Mertesacker</string>
+    <string name="question_six_option_four">Thomas Vermaelen and Laurent Koscielny</string>
+    <string name="question_seven_option_one">4–4–2</string>
+    <string name="question_seven_option_two">3–5–2</string>
+    <string name="question_seven_option_three">4–3–3</string>
+    <string name="question_seven_option_four">4–2–3–1</string>
+    <string name="question_eight">8. Which Arsenal captain and Spanish international went on to play for FC Barcelona and Chelsea FC?</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="view_answers">View Answers</string>
+    <string name="retake_the_quiz">ReTake the Quiz</string>
+    <string name="your_score">Your score is</string>
+    <string name="nil">0</string>
+    <string name="answer_one">1. Eddie Nketiah and Alexander Lacazette</string>
+    <string name="answer_two">2. Defensive Midfielder</string>
+    <string name="answers">ANSWERS</string>
+    <string name="answer_three">3. Free Kick</string>
+    <string name="answer_four">4. Nancy and Monaco</string>
+    <string name="answer_five">5. Indirect Free Kick</string>
+    <string name="answer_six">6. Kolo Toure and Sol Campbell, Thomas Vermalaen and Laurent Koscielny</string>
+    <string name="answer_seven">7. 3-5-2</string>
+    <string name="answer_eight">8. Francesc Fabregas</string>
+
+
+</resources>

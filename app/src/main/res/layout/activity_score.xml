@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scoresTextView"
+        android:text="@string/nil"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        android:layout_margin="10dp"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/retake_the_quiz"
+        android:id="@+id/retakeButton"
+        android:onClick="restartQuiz"
+        android:layout_below="@+id/scoresTextView"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:background="@drawable/mybutton"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/viewAnswersButton"
+        android:onClick="viewAnswers"
+        android:text="@string/view_answers"
+        android:layout_below="@+id/retakeButton"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:background="@drawable/mybutton"
+        android:layout_margin="10dp"
+        android:textSize="18sp"/>
+
+</RelativeLayout>
